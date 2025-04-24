@@ -261,6 +261,10 @@ ps -ef | grep wazuh-indexer | grep -Eo 'Xmx[0-9]+[mg]'
 ```
 You should see: Xmx8g
 
+---
+
+### 👨‍💻 Author
+Mario Tagaras | Florida State University Alum
 
 
 
