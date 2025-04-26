@@ -36,6 +36,7 @@ Tuning index templates and system settings is crucial for efficient logging, com
 <div>
   <img src="https://img.shields.io/badge/-Wazuh_Indexer-0078D4?&style=for-the-badge&logo=Wazuh&logoColor=white" />
   <img src="https://img.shields.io/badge/-OpenSearch-005571?&style=for-the-badge&logo=OpenSearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-RHEL-EE0000?&style=for-the-badge&logo=Red-Hat&logoColor=white" />
 </div>
 
 ---
